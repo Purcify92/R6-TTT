@@ -112,4 +112,4 @@ async def joingame(ctx, roundid: discord.Option(discord.SlashCommandOptionType.s
 
     
 
-bot.run('MTExNzI5MDgwMzcxNTM4NzQ1Mw.Gni7-B.Qry-HJnrz-qcetuprqwBN-JyY2_lSVofJuXv_0')
+bot.run('TOKEN HERE')
